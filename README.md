@@ -1,42 +1,47 @@
-# Amity - UX Case Study
+# Amity - Caso de Estudio UX
 
-## 💜 Overview
-Amity is a social app designed to help women build real, meaningful friendships in a safe and supportive environment.
+## 💜 Descripción
+Amity es una aplicación social diseñada para ayudar a mujeres a crear amistades reales, seguras y significativas.
 
-## 🎯 Problem
-Many women struggle to make new friends due to:
-- Lack of safe spaces
-- Fear of judgment or rejection
-- Negative experiences in existing apps
+## 🎯 Problema
+Muchas mujeres tienen dificultades para generar nuevas amistades en la adultez debido a:
+- Falta de espacios seguros
+- Miedo al juicio o rechazo
+- Experiencias negativas en aplicaciones existentes
 
-## 🔍 Research
-- Surveys and interviews with potential users
-- Benchmarking of existing apps
-- Identification of key pain points
+## 🔍 Investigación
+Para entender el problema se realizaron:
+- Encuestas a mujeres de entre 18 y 45 años
+- Entrevistas a potenciales usuarias
+- Benchmarking de aplicaciones actuales
 
-## 💡 Key Insight
-Women don’t seek quantity, but **quality connections in safe spaces**.
+## 💡 Insight clave
+Las usuarias no buscan cantidad de amistades, sino **vínculos auténticos en entornos seguros y empáticos**.
 
-## 🧩 Solution
-Amity allows users to:
-- Match with others based on interests and location
-- Create and join groups
-- Chat in a secure environment
+## 👤 User Persona
+Se definió como usuaria principal a Sofía, una joven profesional que busca generar conexiones reales en una nueva ciudad, pero se enfrenta a experiencias superficiales en apps actuales.
 
-## 🚀 MVP Features
-- User profile
-- Matching system
-- Private chat
-- Filters
+## 🧩 Solución
+Amity propone:
+- Conexión entre usuarias según intereses y ubicación
+- Creación de grupos y eventos
+- Espacio seguro con perfiles verificados
 
-## 🧠 Learnings
-- Emotional barriers are as important as functional ones
-- Safety is a core feature, not an extra
-- Context and shared interests drive connection
+## 🚀 MVP (Producto Mínimo Viable)
+Funcionalidades principales:
+- Registro y perfil de usuaria
+- Sistema de match
+- Chat privado
+- Filtros por intereses
 
-## 📄 Full Case Study
-Check the full PDF here:
+## 🧠 Aprendizajes
+- Las barreras emocionales son tan importantes como las funcionales
+- La seguridad es un pilar fundamental en apps sociales
+- Los intereses en común facilitan conexiones más significativas
+
+## 📄 Caso completo
+Podés ver el desarrollo completo del proyecto en el siguiente archivo:
 👉 Amity-UX-Case-Study.pdf
 
-## 🚧 Status
-Work in progress — next step: UI design
+## 🚧 Estado del proyecto
+En desarrollo — próxima etapa: diseño UI y prototipado
