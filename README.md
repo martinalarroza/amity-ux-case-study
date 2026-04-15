@@ -41,7 +41,7 @@ Funcionalidades principales:
 
 ## 📄 Caso completo
 Podés ver el desarrollo completo del proyecto en el siguiente archivo:
-👉 [Ver PDF completo](./Amity-UX-Case-Study.pdf)
+👉 [Ver PDF completo](Amity-UX-Case-Study.pdf)
 
 ## 🚧 Estado del proyecto
 En desarrollo — próxima etapa: diseño UI y prototipado
